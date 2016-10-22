@@ -1,6 +1,18 @@
 # INFS7203-PROJ
 UQ ITEE - INFS7203 Project (Sem2, 2016)
 
+## What's in it
+
+1. Collecting data of users and the Tweets of some specific users
+
+2. TF-IDF and Agglomerative Clustering to find the clusters of Tweets
+
+3. LDA to analysis the topics
+
+## Package Used
+
+- sklearn, gensim, numpy, nltk, pymongo, mongoengine, Tweepy
+
 ## How to use
 
 1. Create your app on Twitter Developer's website and copy your tokens to twitter_client.py
